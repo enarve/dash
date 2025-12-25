@@ -1,0 +1,1 @@
+Building my version of [text](https://viewsourcecode.org/snaptoken/kilo/) [editor](https://philippflenker.com/hecto/).
